@@ -21,15 +21,6 @@ class App extends Component {
   //liftcycle
   componentDidMount(){
     this.props.getNotes();
-    auth().onAuthStateChanged(function(user) {
-      if (user) {
-        // User is signed in.
-        console.log('user log-in',user)
-      } else {
-        // No user is signed in.
-        console.log('user is not log-in')
-      }
-    });
   }
 
   // handle change

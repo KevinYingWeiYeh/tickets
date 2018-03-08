@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2432,3 +2433,19 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+# tickets
+A on-line system to see users tickets left
+
+
+Front-End:
+  Langauge: JavaScript / React.JS
+  UI: Metiral UI
+  Auth: Firebase
+  Data: Redux
+Back-End:
+  Langauge Node.JS / Express
+Database:
+  MangoDB / Mangoose
+  
+>>>>>>> 828ca78044854f7790870fb14830060a3eef9cc1
