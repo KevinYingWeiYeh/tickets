@@ -1,3 +1,6 @@
+This is a project for on-line ticket selling system using React.js / Redux / Firebase
+
+
 <<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
