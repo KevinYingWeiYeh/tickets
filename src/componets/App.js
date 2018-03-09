@@ -70,17 +70,17 @@ class App extends Component {
                   <div className='form-group'>
                     <div 
                       className='col-sm-12 disabled' 
-                      style={{'border':'solid 1px', 'margin':'0px 0px 30px 0px', 'padding': '10px',  'textAlign': 'center'}}
+                      style={{'border':'solid 1px', 'margin':'0px 0px 30px 0px', 'padding': '10px','textAlign': 'center'}}
                       >登入頁 / Sign-in</div>
                   </div>
                   <div className='form-group'>
                     <input
                       onChange={this.handleChange}
                       value={this.state.account}
-                      type='text'
+                      type='email'
                       name='account'
                       className='form-control no-border'
-                      placeholder='帳號 / Account'
+                      placeholder='信箱 / E-mail'
                       required
                     />
                   </div>
